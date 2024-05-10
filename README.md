@@ -1,4 +1,4 @@
-# [Patrones GoF]
+# Patrones GoF
 ### Nombre y carné de los integrantes: 
 # Bayron Rodriguez Centeno - 2020114659
 
